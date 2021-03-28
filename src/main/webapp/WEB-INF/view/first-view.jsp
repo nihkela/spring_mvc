@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<a href="/askDetails">Please, write your details</a>
+<a href="/employee/askDetails">Please, write your details</a>
 
 </body>
 
